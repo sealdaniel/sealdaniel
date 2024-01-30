@@ -9,11 +9,13 @@ Mentor [Marco Castro](https://github.com/marcodotcastro#ol%C3%A1-eu-sou-marco-ca
 
 ## Sobre Mim
 
-Sou um desenvolvedor apaixonado por criar soluções inovadoras e impactantes. Tenho experiência em...
+Sou um desenvolvedor iniciante, apaixonado por criar soluções inovadoras e impactantes. Estou comprometido em fortalecer e aprimorar constantemente meu conhecimento e habilidades como desenvolvedor.
+Pretendo adicionar regularmente novos repositórios a este perfil, refletindo meu progresso contínuo no aprendizado e na aplicação prática do conhecimento.
+Essa prática constante servirá para estabelecer uma base sólida e duradoura de experiência e competência, contribuindo para o meu desenvolvimento como profissional.
 
 ## Projetos Destacados
 
-- [Nome do Projeto 1](link_do_projeto_1): Em breve descrição do projeto.
+- [Website](https://github.com/sealdaniel/senai_codificacao): Loja de jogos eletrônicos com login.
 - [Nome do Projeto 2](link_do_projeto_2): Em breve outra descrição de projeto.
 
 ## Habilidades em aprendizado
