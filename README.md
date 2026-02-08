@@ -1,6 +1,6 @@
 # Olá, eu sou Daniel
 
-👨‍💻 Desenvolvedor iniciante Front-end [6 meses] e iniciando os estudos em Back-end | 🌐 Apaixonado por Tecnologia
+👨‍💻 Desenvolvedor Front-end Jr, iniciando os estudos em Back-end e Engenharia de Dados e I.A. + Automações | 🌐 Apaixonado por Tecnologia
 
 
 
