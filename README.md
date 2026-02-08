@@ -2,9 +2,6 @@
 
 👨‍💻 Desenvolvedor iniciante Front-end [6 meses] e iniciando os estudos em Back-end | 🌐 Apaixonado por Tecnologia
 
-Aluno do [Desenvolvendo.me](https://desenvolvendo.me/)
-
-Mentor [Marco Castro](https://github.com/marcodotcastro#ol%C3%A1-eu-sou-marco-castro)
 
 
 ## Sobre Mim
