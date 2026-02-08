@@ -6,7 +6,7 @@
 
 ## Sobre Mim
 
-Sou um desenvolvedor iniciante, apaixonado por criar soluções inovadoras e impactantes. Estou comprometido em fortalecer e aprimorar constantemente meu conhecimento e habilidades como desenvolvedor.
+Sou um desenvolvedor júnior, apaixonado por criar soluções inovadoras e impactantes. Estou comprometido em fortalecer e aprimorar constantemente meu conhecimento e habilidades como desenvolvedor.
 Pretendo adicionar regularmente novos repositórios a este perfil, refletindo meu progresso contínuo no aprendizado e na aplicação prática do conhecimento.
 Essa prática constante servirá para estabelecer uma base sólida e duradoura de experiência e competência, contribuindo para o meu desenvolvimento como profissional.
 
@@ -20,7 +20,6 @@ Essa prática constante servirá para estabelecer uma base sólida e duradoura d
   - ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
   - ![HTML](https://img.shields.io/badge/-HTML-E34F26?style=flat-square&logo=html5&logoColor=white)
   - ![CSS](https://img.shields.io/badge/-CSS-1572B6?style=flat-square&logo=css3&logoColor=white)
-  - ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
   - ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
 
 - Frameworks:
