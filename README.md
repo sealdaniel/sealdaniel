@@ -33,16 +33,18 @@ Essa prática constante servirá para estabelecer uma base sólida e duradoura d
   ![Django](https://img.shields.io/badge/-Django-092E20?style=flat-square&logo=django&logoColor=white)
   ![jQuery](https://img.shields.io/badge/-jQuery-0769AD?style=flat-square&logo=jquery&logoColor=white)
 
-### Bancos de Dados
+### Bancos de Dados e BaaS
   ![SQL Server](https://img.shields.io/badge/-SQL_Server-CC2927?style=flat-square&logo=microsoft-sql-server&logoColor=white)
   ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
   ![Oracle](https://img.shields.io/badge/-Oracle-F00000?style=flat-square&logo=oracle&logoColor=white)
   ![Firebird](https://img.shields.io/badge/-Firebird-ED1C24?style=flat-square&logo=firebird&logoColor=white)
-
+  ![Supabase](https://img.shields.io/badge/-Supabase-3ECF8E?style=flat-square&logo=supabase&logoColor=white)
+  
 ### Infraestrutura, Cloud e Automação
   ![AWS](https://img.shields.io/badge/-AWS-FF9900?style=flat-square&logo=amazon-web-services&logoColor=white)
   ![Apache](https://img.shields.io/badge/-Apache-D22128?style=flat-square&logo=apache&logoColor=white)
   ![n8n](https://img.shields.io/badge/-n8n-EA4B71?style=flat-square&logo=n8n&logoColor=white)
+  ![Twilio](https://img.shields.io/badge/-Twilio-F22F46?style=flat-square&logo=twilio&logoColor=white)
 
 ### QA e Testes de API
   ![Postman](https://img.shields.io/badge/-Postman-FF6C37?style=flat-square&logo=postman&logoColor=white)
