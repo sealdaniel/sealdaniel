@@ -1,12 +1,12 @@
 # Olá, eu sou Daniel
 
-👨‍💻 Desenvolvedor Front-end Jr, iniciando os estudos em Back-end e Engenharia de Dados e I.A. + Automações | 🌐 Apaixonado por Tecnologia
+👨‍💻 Desenvolvedor, com vivência no Front-end e Back-end e Engenharia de Dados e I.A. + Automações | 🌐 Apaixonado por Tecnologia
 
 
 
 ## Sobre Mim
 
-Sou um desenvolvedor júnior, apaixonado por criar soluções inovadoras e impactantes. Estou comprometido em fortalecer e aprimorar constantemente meu conhecimento e habilidades como desenvolvedor.
+Sou um desenvolvedor, apaixonado por criar soluções inovadoras e impactantes. Estou comprometido em fortalecer e aprimorar constantemente meu conhecimento e habilidades como desenvolvedor.
 Pretendo adicionar regularmente novos repositórios a este perfil, refletindo meu progresso contínuo no aprendizado e na aplicação prática do conhecimento.
 Essa prática constante servirá para estabelecer uma base sólida e duradoura de experiência e competência, contribuindo para o meu desenvolvimento como profissional.
 
@@ -27,6 +27,7 @@ Essa prática constante servirá para estabelecer uma base sólida e duradoura d
   - ![Ruby on Rails](https://img.shields.io/badge/-Ruby_on_Rails-CC0000?style=flat-square&logo=ruby-on-rails&logoColor=white)
   - ![Django](https://img.shields.io/badge/-Django-092E20?style=flat-square&logo=django&logoColor=white)
   - ![jQuery](https://img.shields.io/badge/-jQuery-0769AD?style=flat-square&logo=jquery&logoColor=white)
+  - ![JAVA]https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white
 
 ## Redes Sociais
 
