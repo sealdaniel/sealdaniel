@@ -1,6 +1,6 @@
 # Olá, eu sou Daniel
 
-👨‍💻 Desenvolvedor, com vivência no Front-end e Back-end e Engenharia de Dados e I.A. + Automações | 🌐 Apaixonado por Tecnologia
+👨‍💻 Desenvolvedor, com vivência tatnto no Front-end quanto no Back-end, Pós-graduando em Engenharia de Dados e I.A., estou mergulhado nas Automações 🌐 | 💜 Apaixonado por Tecnologia
 
 
 
